@@ -7,7 +7,7 @@ I am adept at using advanced SQL techniques such as:
 - Aggregation,
 - Filtering
 - Subqueries,
-- Ưindow functions,
+- Window functions,
 - Grouping sets...
 
 In addition to my SQL expertise, I excel in data modeling, data definition, and data manipulation tasks in the second case study
