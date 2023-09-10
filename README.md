@@ -11,3 +11,5 @@ I am adept at using advanced SQL techniques such as:
 - Grouping sets...
 
 In addition to my SQL expertise, I excel in data modeling, data definition, and data manipulation tasks in the second case study
+
+![GreenCycles drawio](https://github.com/baotram237/SQL/assets/82713550/46405651-2f21-429b-85a4-8195663ed1cb)
